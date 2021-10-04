@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Shreeja Karki (GitHub ID - @shr33ja)
 - 👀 I am interested in learning and travelling
-- 🌱 I am currently learning HTMl, CSS and JavaScript
+- 🌱 I am currently learning HTML, CSS and JavaScript
 - 📫 You can reach me by sending an email at shreeja.karki@gmail.com
 
 <!---
